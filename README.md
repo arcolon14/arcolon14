@@ -6,7 +6,7 @@ During my PhD in [Julian Catchen's lab](https://catchenlab.life.illinois.edu/) a
 
 In addition to this GitHub page, you can find out more about work my [Bitbucket workspace](https://bitbucket.org/angelgr2/) and [Google Scholar profile](https://scholar.google.com/citations?user=7yec5K8AAAAJ&hl=en).
 
-You can also find me on social media on Twitter/X ([@arcolon14](https://twitter.com/arcolon14)) and BlueSky ([arcolon14.bsky.social](https://bsky.app/profile/arcolon14.bsky.social)).
+You can also find me on sand BlueSky ([arcolon14.bsky.social](https://bsky.app/profile/arcolon14.bsky.social)).
 
 ## Contact Information
 
